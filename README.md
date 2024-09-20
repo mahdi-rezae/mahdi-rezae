@@ -11,7 +11,8 @@
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=mahdi-rezae&data=followers,repositories,stars,commits&theme=darkmode" alt="mahdi-rezae info" />
   </a>
   <a href="https://mahdi-rezae.ir/">
-          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,python,php,mysql,markdown,json,yaml,xml&frameworks=react,next,tailwind,bootstrap&tools=git,npm,yarn,webpack,firebase,vercel,jupyter,wordpress,woocommerce&includeNames=true&theme=darkmode" alt="mahdi-rezae skills" />
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,tailwind,bootstrap&tools=git,npm,yarn,webpack,firebase,vercel,jupyter,wordpress,woocommerce&includeNames=true&theme=darkmode" alt="mahdi-rezae skills" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,python,php,mysql,markdown,json,yaml,xml&includeNames=true&theme=darkmode" alt="mahdi-rezae skills" />
   </a>
 </p>
 
