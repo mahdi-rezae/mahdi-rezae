@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/mahdi-rezae/"><img height="30" src="https://mahdi-rezae.ir/cloud/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://t.me/mahdi_rezae"><img height="30" src="https://mahdi-rezae.ir/cloud/telegram.png"></a>&nbsp;&nbsp;
 </p>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mahdi-Rezae&data=followers,repositories,stars,commits)](https://github.com/mahdi-rezae)
 ### About Me
 - 💻 _FrontEnd Developer Who Is Gaining Experience._
 - 🪄 _I Love The Thrill Of Making What I Want Possible!_
