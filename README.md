@@ -19,8 +19,8 @@
 <hr>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni" alt="Top languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=mahdi-rezae&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-rezae&layout=compact&theme=omni" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://mahdi-rezae.ir/cloud/canvas.png" width=500 height=200 style="display: block; margin: 0 auto"/>
