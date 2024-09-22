@@ -1,11 +1,3 @@
-<a href="https://mahdi-rezae.ir/">
-  <img src="https://github.com/user-attachments/assets/" alt="" />
-</a>
-
-<br>
-<br>
-<hr>
-
 <p align="center">
   <a href="https://mahdi-rezae.ir/">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=mahdi-rezae&data=followers,repositories,stars,commits&theme=darkmode" alt="mahdi-rezae info" />
